@@ -1,6 +1,6 @@
 # RMixMLP:An all-MLP Block for machine remaining useful life prediction
 
-This repo is the official Pytorch implementation of RMixMLP: "[RMixMLP:An all-MLP Block for machine remaining useful life prediction]". 
+This repo is the official Pytorch implementation of RMixMLP: "[RMixMLP: An all-MLP block for remaining useful life prediction]". 
 
 
 ## Updates
